@@ -1,4 +1,4 @@
-# Desafio-semana-2-SQS-consomer
+# Desafio-semana-2-SQS-consumer
 
 ## Sobre a aplicação
 
@@ -8,7 +8,7 @@ O projeto consiste em receber mensagens customizadas, seguindo um modelo de Fila
 
 https://github.com/LucasRocha2308/Desafio-semana-2-SQS-sender/tree/main
 
-## Link para os projetos sender e consomer 
+## Link para os projetos sender e consumer 
 
 https://github.com/LucasRocha2308/Segundo-desafio-Ilab
 
